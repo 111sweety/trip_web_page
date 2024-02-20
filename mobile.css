@@ -1,0 +1,138 @@
+@media screen and (max-width: 767px){
+    .boat-banner  .mob-banner{
+        display: block;
+    }
+    
+    .boat-banner  .web-banner{
+        display: none;
+    }
+
+    img.mob-banner{
+        width: 100%;
+    }
+
+    .banner-text{
+        top: 58px;
+        left: 0px;
+    }
+
+    .banner-text p{
+        padding-left: 55px;
+    }
+
+    .explore-btn{
+        margin-top: 22px;
+        padding: 5px 9px;
+        margin-left: 44px;
+    }
+    .banner-text h1{
+        font-size: 42px;
+        padding-left: 47px
+    }
+    /* SECTION 2 ENDS................................... */
+
+    .weekend-heading h2{
+        text-align: center;
+    }
+    .trip-buttons{
+        display: flex;
+        flex-wrap: wrap;
+        padding-left: 41px;
+        padding-top: 15px;
+        justify-content: space-evenly;
+       
+    }
+
+    .trip-buttons :nth-child(5){
+        margin-top: 5px;
+        
+    }
+    .card a.btn{
+        margin-left: 27px;
+    }
+
+/* sectio-2 ends...................... */
+
+/* sectio-3 starts............ */
+.book-header h1{
+    font-size: 26px;
+}
+.book-header p{
+    padding: 0% 11%
+}
+
+/* section-3 ends...................... */
+
+/* section-4 starts.............. */
+.testimonial-contents h1{
+    font-size: 26px;
+}
+.testimonial-contents p{
+    padding: 0% 11%
+}
+
+.partner-logo{
+    width: 56px;
+}
+.bag-pack-contents h1{
+    font-size: 24px;
+    margin-bottom: 0px;
+}
+
+.bag-pack-contents p{
+    font-size: 12px;
+    padding-right: 37%;
+}
+.bag-pack-contents{
+    top: 8%;
+}
+.bag-pack-button button{
+    margin-left: 0;
+    margin-top: 0;
+    padding: 2px 2px;
+}
+
+.whytravel-contents{
+    top: 9px;
+}
+.whytravel-contents h1{
+    font-size: 19px;
+    padding-left: 0;
+    margin-bottom: 0px;
+}
+
+.whytravel-contents p{
+    font-size: 12px;
+    padding: 0% 14%;
+}
+.email-and-button{
+padding-top: 1%;
+margin: 0 25px !important;
+}
+.email-and-button button{
+margin-left: 12px;
+}
+
+.email-and-button input{
+padding: 5px 7px;
+margin-left: 33px;
+}
+.col-f-border{
+    border-right: 0;
+    border-bottom: 2px solid #fff;
+}
+
+.footer-contents{
+    padding: 19px 41px;
+}
+
+footer{
+    margin-top: 4%;
+}
+
+.footer-nav ul li a{
+    padding: 0;
+}
+
+
+}
